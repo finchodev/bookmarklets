@@ -1,4 +1,4 @@
-# Bookmarklet COllection
+# Bookmarklet Collection
 ### I do not condone any illegal/immoral use of these bookmarklets, these are listed strictly for educational purposes!
 
 > ## Edit+

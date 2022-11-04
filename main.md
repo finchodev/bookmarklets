@@ -77,7 +77,7 @@
 > ## Blooket Multitool
 #### This is a semi-functional blooket multitool
 
-`Way too big to put here but its at (https://zeltux.dev/blooket.js)`
+`Way too big to put here but its at (https://zeltux.dev/dump/blooket.js)`
 
 
 
@@ -91,7 +91,7 @@
 > ## Prodigy Multitool
 #### This is a prodigy cheat multitool
 
-`Way too big to put here but its at (https://zeltux.dev/prodigy.js)`
+`Way too big to put here but its at (https://zeltux.dev/dump/prodigy.js)`
 
 > ## Online Notepad
 #### Just opens a new tab that allows you to type whatever you desire

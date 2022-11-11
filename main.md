@@ -2,12 +2,6 @@
 ### I do not condone any illegal/immoral use of these bookmarklets, these are listed strictly for educational purposes!
 
 
-> ## Calculator
-#### Calculator is a popup box that can solve any simple math equation on any page you choose!
-`javascript:eval('function calc(){_o=prompt(_t,_z);if(_o!=\'\'&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())_z=eval(_o);}');_t='JAVASCRIPTER.NET Calculator - Input the expression to be calculated:';_z='';calc();while(_o!=''&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())calc()`
-
-
-
 > ## History Flooder
 #### Have something to hide? Use this bookmarklet to spam your history with your input of websites!
 `javascript:var num=prompt("History flood amount: "); done = false; x = window.location.href; for (var i=1; i<=num; i++) {history.pushState(0, 0, i==num?x:i.toString()); if(i==num){done=true}}if(done===true){alert("History flood successful! "+window.location.href+" now appears in your history "+num+(num==1?" time.":" times."))}`

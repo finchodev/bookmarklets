@@ -2,12 +2,6 @@
 ### I do not condone any illegal/immoral use of these bookmarklets, these are listed strictly for educational purposes!
 
 
-> ## Edit+
-#### Edit+ is a toggleable way to edit any text on the page that the bookmarklet is used on, this is client side and does not cause damage to the site, will reset or reload.
-`javascript:if(document.body.contentEditable != 'true')void(document.body.contentEditable = 'true');else void(document.body.contentEditable = 'false');`
-
-
-
 > ## Calculator
 #### Calculator is a popup box that can solve any simple math equation on any page you choose!
 `javascript:eval('function calc(){_o=prompt(_t,_z);if(_o!=\'\'&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())_z=eval(_o);}');_t='JAVASCRIPTER.NET Calculator - Input the expression to be calculated:';_z='';calc();while(_o!=''&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())calc()`
